@@ -47,19 +47,5 @@ This project was built using only the core technologies of the web, without any 
     -   Staff carousel controls.
     -   Modal window functionality.
 
-## 🏁 Getting Started Locally
-
-This is a pure front-end project and does not require a web server to run.
-
-1.  Clone the repository to your local machine:
-    ```bash
-    git clone https://github.com/YOUR_USERNAME/your-repo-name.git
-    ```
-2.  Navigate into the project directory:
-    ```bash
-    cd your-repo-name
-    ```
-3.  Open the `Home.html` file directly in your preferred web browser.
-
 ---
 This project serves as a portfolio piece to demonstrate strong foundational skills in front-end web development and a keen eye for design and interactivity.
