@@ -13,16 +13,16 @@ This repository contains the source code for a modern, fully responsive static w
     <td align="center"><strong>About School Page</strong></td>
   </tr>1
   <tr>
-    <td><img src="assets/screen_1.jpg" alt="Screenshot of the website's home page" width="400"></td>
-    <td><img src="assets/screen_2.jpg" alt="Screenshot of the dynamic course filtering system" width="400"></td>
+    <td><img src="assets/Screen_1.jpg" alt="Screenshot of the website's home page" width="400"></td>
+    <td><img src="assets/Screen_2.jpg" alt="Screenshot of the dynamic course filtering system" width="400"></td>
   </tr>
   <tr>
     <td align="center"><strong>Gallery Page</strong></td>
     <td align="center"><strong>Books Page</strong></td>
   </tr>
   <tr>
-    <td><img src="assets/screen_3.jpg" alt="Screenshot of the animated image gallery" width="400"></td>
-    <td><img src="assets/screen_4.jpg" alt="Screenshot of the website's mobile-responsive layout" width="400"></td>
+    <td><img src="assets/Screen_3.jpg" alt="Screenshot of the animated image gallery" width="400"></td>
+    <td><img src="assets/Screen_4.jpg" alt="Screenshot of the website's mobile-responsive layout" width="400"></td>
   </tr>
 </table>
 
